@@ -33,7 +33,7 @@ Instead, we will have a toy implementation of the concept of money.
 
 Students/participants will be divided into small groups (each group will have roughly 4-5 students). Each group will build the software independently. One student from each group will act as a Product Owner (PO), who will co-ordinate the communication with assitant. PO will then proactively discuss the reqirements with his/her fellow team members.
 
-The total duration for the project is 12 weeks. First 4 weeks will be given to learn technologies and clear the underlying concepts, also to start developing. The project will be developed as a series of **features**. Project will have four milestones (see [wiki](https://github.com/scg-unibe-ch/ese2020/wiki)), at each milestone we will evaluate and retrospect the progress made. Total 4 features will be built by students, out of which one will be a surprise feature by students.
+The total duration for the project is 12 weeks. First 4 weeks will be given to learn technologies and clear the underlying concepts, also to start developing. The project will be developed as a series of **features**. Project will have three milestones (see [wiki](https://github.com/scg-unibe-ch/ese2020/wiki)), at each milestone we will evaluate and retrospect the progress made. Total 4 features will be built by students, out of which one will be a surprise feature by students.
 
 # Further information
 Refer [project wiki](https://github.com/scg-unibe-ch/ese2020/wiki) for further information about technologies used, useful presentations, and getting started guide.
